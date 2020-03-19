@@ -6,7 +6,8 @@ FN: Bellefontaine  Charles
 ORG:Chicagoland Home Inspectors, Inc.;
 TITLE:Home Inspector
 EMAIL;type=INTERNET;type=WORK;type=pref:Charlie@ChicagolandHomeInspectors.net
-TEL;type=WORK;type=VOICE:+312 544 9180
+TEL;type=WORK;type=VOICE:(312) 544 9180
+TEL;type=Charlie;type=VOICE:(630) 327 2700
 item1.ADR;type=WORK;type=pref:;;980 N Michigan Ave Suite 1400\Chicago\, IL;;;60611;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:TheHomeInspectors.com
